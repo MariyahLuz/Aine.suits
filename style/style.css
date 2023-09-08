@@ -191,17 +191,17 @@ textarea.form-control {
 }
 
 .has-danger .form-control {
-    border-color: #5328fe;
+    border-color: #f2ae31;
     box-shadow: none;
 }
 
 .has-danger .form-control:focus {
-    border-color: #5328fe;
+    border-color: #f2ae31;
     box-shadow: none;
 }
 
 .has-danger .subscribe-form__inner .btn-subscribe {
-    border-left: 1px solid #5328fe;
+    border-left: 1px solid #f2ae31;
 }
 
 #validator-subscribe,
@@ -322,7 +322,7 @@ input:-webkit-autofill:active {
 }
 
 .btn::before {
-    background-color: #5328fe;
+    background-color: #f2ae31;
     width: 60%;
 }
 
@@ -660,7 +660,7 @@ h6 {
 }
 
 .title_decoration::after {
-    background-color: #5328fe;
+    background-color: #f2ae31;
     bottom: 0;
     content: '';
     height: 40%;
@@ -931,12 +931,12 @@ img {
 }
 
 ::-moz-selection {
-    background: #5328fe;
+    background: #f2ae31;
     color: #fff;
 }
 
 ::selection {
-    background: #5328fe;
+    background: #f2ae31;
     color: #fff;
 }
 
@@ -945,7 +945,7 @@ img {
 ----------------------------------------------------------------- */
 
 .loading {
-    background: #111111;
+    background: #f2ae31;
     color: #fff;
     position: fixed;
     top: 0;
@@ -1187,7 +1187,7 @@ img {
 
 @media only screen and (max-width: 991px) {
     .navbar-nav .nav-item a:hover {
-        background-color: #5328fe;
+        background-color: #f2ae31;
     }
 }
 
@@ -1197,7 +1197,7 @@ img {
 
 .navbar-nav .nav-item a::before {
     content: '';
-    background-color: #5328fe;
+    background-color: #f2ae31;
     height: 100%;
     position: absolute;
     top: 0;
@@ -1294,7 +1294,7 @@ img {
 }
 
 .navbar-nav .dropdown .nav-item:hover {
-    background-color: #5328fe;
+    background-color: #f2ae31;
 }
 
 .navbar-nav .dropdown .nav-item:last-child a {
@@ -1509,7 +1509,7 @@ img {
 }
 
 .dl-menu__wrap ul li a::after {
-    background-color: #5328fe;
+    background-color: #f2ae31;
     content: '';
     height: 100%;
     margin: auto;
@@ -2634,7 +2634,7 @@ img {
         padding-right: 0;
     }
     .filter__item.active a {
-        color: #5328fe;
+        color: #f2ae31;
     }
     .filter__link {
         color: #fff;
@@ -2812,7 +2812,7 @@ img {
 }
 
 .client-carousel-item .item__block-author {
-    background-color: #1a1a1a;
+    background-color: #024a59;
     display: -webkit-flex;
     display: -ms-flexbox;
     display: -moz-box;
@@ -2993,7 +2993,7 @@ img {
 }
 
 .client-carousel-item .item__block-number::after {
-    background-color: #5328fe;
+    background-color: #f2ae31;
     content: '';
     height: 28%;
     position: absolute;
@@ -3133,7 +3133,7 @@ img {
 }
 
 .photo-carousel__item .item__block-description .title::after {
-    background-color: #5328fe;
+    background-color: #f2ae31;
     content: '';
     height: 40%;
     position: absolute;
@@ -3290,7 +3290,7 @@ img {
 }
 
 .pricing-grid__item::after {
-    background-color: #5328fe;
+    background-color: #f2ae31;
     content: '';
     height: 100%;
     opacity: .8;
@@ -4225,7 +4225,7 @@ img {
 }
 
 .news-singel .item-news .share-post a:hover {
-    color: #5328fe;
+    color: #f2ae31;
 }
 
 .news-singel .item-news .share-post a:last-child {
@@ -4429,12 +4429,12 @@ img {
 }
 
 .filter-categories__item_current a {
-    color: #5328fe;
+    color: #f2ae31;
     opacity: 1;
 }
 
 .filter-categories__item_current a::before {
-    background-color: #5328fe;
+    background-color: #f2ae31;
     content: '';
     height: 1px;
     margin: auto 0;
@@ -4531,7 +4531,7 @@ img {
 }
 
 .section-comments .media .media-header a:hover {
-    color: #5328fe;
+    color: #f2ae31;
 }
 
 .section-comments .media .media-body {
@@ -4791,7 +4791,7 @@ img {
 .show-popup .popup.popup-overlay::after,
 .show-overlay-nav .popup.popup__menu::after {
     content: '';
-    background-color: #5328fe;
+    background-color: #f2ae31;
     position: absolute;
     top: 0;
     left: 0;
@@ -4930,6 +4930,7 @@ img {
 .footer {
     padding: 100px 0 40px;
     position: relative;
+    background-color: #f2ae31;
 }
 
 @media only screen and (max-width: 768px) {
@@ -5038,8 +5039,8 @@ img {
 }
 
 .video-controls [data-media="play-pause"]:hover {
-    background-color: #5328fe;
-    box-shadow: 0 0 0 10px #5328fe;
+    background-color: #f2ae31;
+    box-shadow: 0 0 0 10px #f2ae31;
 }
 
 [data-media] {
@@ -5268,7 +5269,7 @@ img {
 .reveal.animated::after,
 .swiper-slide-active .item__block-image::after {
     content: '';
-    background: #5328fe;
+    background: #f2ae31;
     position: absolute;
     top: 0;
     left: 0;
