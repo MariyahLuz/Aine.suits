@@ -66,8 +66,8 @@ body {
     background-image: url(../images/line-maker.svg);
     background-repeat: repeat;
     background-position: center center;
-    background-color: #111111;
-    color: #fff;
+    background-color: #024a59;
+    color: #f2f2f2;
     font-family: "Poppins", sans-serif;
     font-weight: 400;
     line-height: 2;
@@ -1006,6 +1006,7 @@ img {
 
 .loading-wrap .logotype {
     width: 100px;
+    height: 100px;
 }
 
 @media screen and (max-width: 580px) {
@@ -1080,7 +1081,7 @@ img {
 }
 
 .navbar .logotype {
-    height: 6rem;
+    height: 8rem;
 }
 
 @media screen and (max-width: 991px) {
@@ -2812,7 +2813,7 @@ img {
 }
 
 .client-carousel-item .item__block-author {
-    background-color: #024a59;
+    background-color: #028aa6;
     display: -webkit-flex;
     display: -ms-flexbox;
     display: -moz-box;
@@ -2830,7 +2831,7 @@ img {
 }
 
 .client-carousel-item .item__block-author::after {
-    background-color: #0f0f0f;
+    background-color: #f2ae31;
     content: '';
     height: 100%;
     position: absolute;
@@ -5253,7 +5254,7 @@ img {
 .reveal.animated::before,
 .swiper-slide-active .item__block-image::before {
     content: '';
-    background: #111111;
+    background: #f2ae31;
     position: absolute;
     top: 0;
     left: 0;
