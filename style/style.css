@@ -1005,8 +1005,8 @@ img {
 }
 
 .loading-wrap .logotype {
-    width: 100px;
-    height: 100px;
+    width: 300px;
+    height: 200px;
 }
 
 @media screen and (max-width: 580px) {
@@ -1082,6 +1082,7 @@ img {
 
 .navbar .logotype {
     height: 8rem;
+
 }
 
 @media screen and (max-width: 991px) {
